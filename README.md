@@ -42,4 +42,4 @@
 
 ## 커스터마이징
 
- - 시스템 구성 및 세부 정보는 [ESP32-BLE-Keyboard](https://github.com/T-vK/ESP32-BLE-Keyboard)를 확인하세요.
+ - 시스템 구성 및 세부 정보는 [ESP32-BLE-Keyboard Github](https://github.com/T-vK/ESP32-BLE-Keyboard)를 확인하세요.
