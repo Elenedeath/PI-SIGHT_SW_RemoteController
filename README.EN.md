@@ -30,9 +30,9 @@ These alphabet data execute actions such as menu movement and camera operation t
 ## installation
 
  1. (Complete the setup for uploading programs to ESP32 in Arduino IDE. [Instruction link](https://github.com/espressif/arduino-esp32#installation-instructions))
- 2. Download the ['ESP32-BLE-PISIGHT.zip' library file](https://github.com/younsj97/PI-SIGHT_SW_RemoteController/blob/main/ESP32_BLE_PISIGHT.zip).
+ 2. Download the ['ESP32-BLE-PISIGHT.zip' library file](https://github.com/elenedeath/PI-SIGHT_SW_RemoteController/blob/main/ESP32_BLE_PISIGHT.zip).
  3. In the Arduino IDE, click "Sketch" -> "Include Library" -> "Add .ZIP Library..." and select the downloaded library file.
- 4. Download the ['PISIGHT-RC.ino' file](https://github.com/younsj97/PI-SIGHT_SW_RemoteController/blob/main/PISIGHT-RC/PISIGHT-RC.ino), open it in Arduino IDE, connect the ESP32 to your PC, and upload the software.
+ 4. Download the ['PISIGHT-RC.ino' file](https://github.com/elenedeath/PI-SIGHT_SW_RemoteController/blob/main/PISIGHT-RC/PISIGHT-RC.ino), open it in Arduino IDE, connect the ESP32 to your PC, and upload the software.
 
 
 ## etc
